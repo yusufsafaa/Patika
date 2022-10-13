@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Variables\Learning\bin\Debug\Learning.exe.config
+C:\Users\yusuf\source\repos\Variables\Learning\bin\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Variables\Learning\bin\Debug\Learning.pdb
+C:\Users\yusuf\source\repos\Variables\Learning\obj\Debug\Variables and Datetime Function.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Variables\Learning\obj\Debug\Variables and Datetime Function.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Variables\Learning\obj\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Variables\Learning\obj\Debug\Learning.pdb

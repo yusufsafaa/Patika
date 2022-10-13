@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\yusuf\source\repos\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\yusuf\source\repos\Learning\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Learning\Learning\obj\Debug\Learning.pdb
+C:\Users\yusuf\source\repos\Data Structures\Learning\bin\Debug\Learning.exe.config
+C:\Users\yusuf\source\repos\Data Structures\Learning\bin\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Data Structures\Learning\bin\Debug\Learning.pdb
+C:\Users\yusuf\source\repos\Data Structures\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Data Structures\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Data Structures\Learning\obj\Debug\Learning.exe
+C:\Users\yusuf\source\repos\Data Structures\Learning\obj\Debug\Learning.pdb
