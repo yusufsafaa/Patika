@@ -5,3 +5,10 @@ C:\Users\yusuf\source\repos\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference
 C:\Users\yusuf\source\repos\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
 C:\Users\yusuf\source\repos\Loops\Loops\obj\Debug\Loops.exe
 C:\Users\yusuf\source\repos\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Loops\Loops\obj\Debug\Loops.pdb

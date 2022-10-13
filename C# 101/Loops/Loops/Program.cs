@@ -112,6 +112,14 @@ namespace Loops
                 }
                 Console.WriteLine(i);
             }
+
+            // to print all the letter from a to z
+            char letter1 = 'a';
+            while (letter1<'z'+1)
+            {
+                Console.WriteLine(letter1);
+                letter1++;
+            }
         }
     }
 }
