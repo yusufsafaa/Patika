@@ -5,4 +5,4 @@
 
 ### Yusuf Safa Köksal
 ### - [Patika.dev](https://app.patika.dev/zystein)
-### - [Linkedin](www.linkedin.com/in/yusuf-safa-köksal-a022a121a)
+### - [Linkedin](https://www.linkedin.com/in/yusuf-safa-k%C3%B6ksal-a022a121a/)
