@@ -104,7 +104,43 @@ namespace Arrays
             int numberofelements = numberarray.Count();    // It shows the number of elements of array.
             Console.WriteLine(numberofelements);
 
+            BubbleSorting();
+
             Console.ReadLine();
+        }
+
+        public static void BubbleSorting()
+        {
+            int[] array=new int[] { 8, 3, 5, 1, 7, 6 };
+            int length = array.Length;
+
+            Console.WriteLine("******* Array Without Sorting *******");
+            foreach (var number in array)
+            {
+                Console.Write(number + " ");
+            }
+            Console.WriteLine();
+
+            int temp = 0;
+            for (int i = 0; i < length; i++)
+            {
+                for (int j = 0; j < length-1; j++)
+                {
+                    if (array[j]>array[j+1])
+                    {
+                        temp = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
+                    }
+                }
+            }
+            Console.WriteLine();
+            Console.WriteLine("******* Array After Sorting *******");
+            foreach (var number in array)
+            {
+                Console.Write(number+" ");
+            }
+
         }
     }
 }

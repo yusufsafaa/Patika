@@ -5,3 +5,10 @@ C:\Users\yusuf\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyRefere
 C:\Users\yusuf\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\yusuf\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\yusuf\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Arrays\Arrays\obj\Debug\Arrays.pdb
