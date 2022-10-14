@@ -6,3 +6,4 @@
 ### Yusuf Safa Köksal
 ### - [Patika.dev](https://app.patika.dev/zystein)
 ### - [Linkedin](https://www.linkedin.com/in/yusuf-safa-k%C3%B6ksal-a022a121a/)
+### - [HackerRank](https://www.hackerrank.com/yusufsafaa?hr_r=1)
