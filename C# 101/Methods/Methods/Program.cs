@@ -15,19 +15,38 @@ namespace Methods
             int abc = Add3(64, 26);
             Console.WriteLine(abc);
 
+            // Ref parameter
             string name1 = "Yusuf Safa";
             Console.WriteLine(name1);     // Geçerli değişkeni ref yapısı kullanarak değiştirme !!
             namemethod(ref name1);        // Örneğin kredi durumlarında bazı müşterilere ek indirim falan olursa böyle değiştirilir.Alt örnekteki gibi
             Console.WriteLine(name1);     // çıktısı "Köksal" olur. Eğer ref kullanmasaydık "Yusuf Safa" olurdu.
 
+            // Ref parameter example
             int credit1 = 20;
             Console.WriteLine("Normally our credit rate is 20 ,but your credit rate is {0} due to the fact that you are our private customer.", creditmethod(ref credit1));
-                                               // Out da ref e benzer ama daha önceden değişkene değer atama zorunluluğu yoktur.
-            Console.WriteLine(credit1);         // ancak methodun içinde değişkene değer atanması zorunludur !
+            Console.WriteLine(credit1);           // Out da ref e benzer ama daha önceden değişkene değer atama zorunluluğu yoktur.
+                                                  // ancak methodun içinde değişkene değer atanması zorunludur !
 
-            Console.WriteLine(multiply(5, 7,2));
 
-            Console.WriteLine(infinitiveislem(1, 2, 3, 4, 5, 6, 7));
+            // Out parameter
+            Console.WriteLine(Addition(34, 51, out int resultofaddition));
+            
+            
+            // TryParse with out parameter 
+            string number = "345";
+            int outnumber;
+
+            bool result = int.TryParse(number,out outnumber); // İlk parametreye parse etmek istediğimiz sayıyı ikinciye ise parse ettikten sonra alacağı değeri atıyoruz.
+
+            if (result)
+            {
+                Console.WriteLine("Conversion is succesful!");
+            }
+            else
+            {
+                Console.WriteLine("Conversion failed!");
+            }
+                
 
             Console.ReadLine();
         }
@@ -50,12 +69,14 @@ namespace Methods
             // Yukarıdaki iki satır olmadan direkt böyle de yapılabilirdi. |  return number1 + number2;
         }
 
-        // Ref
+        
+        // Ref parameter
         static void namemethod(ref string name1)
         {
             name1 = "Köksal";
            
         }
+
 
         // Example ref usage
         static int creditmethod(ref int credit1)
@@ -69,13 +90,22 @@ namespace Methods
             return number1 * number2;
         }
 
+        // Out parameter
+        static int Addition(int number1,int number2, out int result)
+        {
+            result = number1 + number2;
+            return result;
+        }
+
+
         
         // Method Overloading
         static int multiply(int number1, int number2,int number3) // adı üstteki method ile aynı ve böyle kullanılabilir. 
-        {                                                         // int multiply(int number1,int number2) kısmı methodun imzasıdır.
-            return number1 * number2* number3;
+        {                                                         // multiply(int number1,int number2) kısmı methodun imzasıdır. 
+            return number1 * number2* number3;                    // geri dönüş tipi methodun imzasına dahil değildir!
         }
 
+        
         // Params
         static int infinitiveislem(int number1,params int[] numbers)// params dizilere girer ve hesap makinesi gibi istediğimiz kadar sayı girmeye yarar.
         {                                                           // params son parametre olmak zorundadır ancak ondan önce istersek int tanımlayabiliriz

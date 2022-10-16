@@ -5,3 +5,10 @@ C:\Users\yusuf\source\repos\Methods\Methods\bin\Debug\Methods.exe
 C:\Users\yusuf\source\repos\Methods\Methods\bin\Debug\Methods.pdb
 C:\Users\yusuf\source\repos\Methods\Methods\obj\Debug\Methods.exe
 C:\Users\yusuf\source\repos\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Methods\Methods\obj\Debug\Methods.pdb
