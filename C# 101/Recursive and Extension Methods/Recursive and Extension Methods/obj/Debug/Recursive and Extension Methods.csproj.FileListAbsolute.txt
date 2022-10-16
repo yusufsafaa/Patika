@@ -1,0 +1,7 @@
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\bin\Debug\Recursive and Extension Methods.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\bin\Debug\Recursive and Extension Methods.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\bin\Debug\Recursive and Extension Methods.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\obj\Debug\Recursive and Extension Methods.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\obj\Debug\Recursive and Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\obj\Debug\Recursive and Extension Methods.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Recursive and Extension Methods\Recursive and Extension Methods\obj\Debug\Recursive and Extension Methods.pdb
