@@ -1,0 +1,7 @@
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\bin\Debug\DateTime and Math.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\bin\Debug\DateTime and Math.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\bin\Debug\DateTime and Math.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\obj\Debug\DateTime and Math.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\obj\Debug\DateTime and Math.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\obj\Debug\DateTime and Math.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\DateTime and Math\DateTime and Math\obj\Debug\DateTime and Math.pdb
