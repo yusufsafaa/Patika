@@ -12,10 +12,15 @@ namespace Collections
     {
         static void Main(string[] args)
         {
+            // Array List
             ArrayList arrayList = new ArrayList();  // Array'lerdeki gibi önceden belirlediğimiz sınıra uyma zorunluluğu yoktur.
             arrayList.Add("Samsun");                // Değişik veri tipleri bir arada tutulabilir. Ancak array de nasıl tanımlanmış ise o tutulurdu.
             arrayList.Add(55);
             arrayList.Add('A');
+
+            // AddRange
+            List<string> colors = new List<string>() {"red","blue","yellow","green"};  
+            arrayList.AddRange(colors);  // We can add more than one item at once with AddRange.
 
             // Generic List
 
