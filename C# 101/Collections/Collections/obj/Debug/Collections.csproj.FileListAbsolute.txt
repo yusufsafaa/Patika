@@ -5,3 +5,10 @@ C:\Users\yusuf\source\repos\Collections\Collections\obj\Debug\Collections.csproj
 C:\Users\yusuf\source\repos\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
 C:\Users\yusuf\source\repos\Collections\Collections\obj\Debug\Collections.exe
 C:\Users\yusuf\source\repos\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\yusuf\Documents\GitHub\Patika.dev-Egitimleri\C# 101\Collections\Collections\bin\Debug\Collections.pdb

@@ -20,10 +20,41 @@ namespace Collections
 
             // AddRange
             List<string> colors = new List<string>() {"red","blue","yellow","green"};  
-            arrayList.AddRange(colors);  // We can add more than one item at once with AddRange.
+            arrayList.AddRange(colors);                                                 // We can add more than one item at once with AddRange.
 
+            
+            
+            
+            // Dictionary
+            Dictionary<int, string> teams = new Dictionary<int, string>();     // int==key , string==value
+            teams.Add(1, "Manchester City");                                   // Keys must be unique.
+            teams.Add(3, "Liverpool");
+            teams.Add(2, "Chelsea");
+            Console.WriteLine(teams[2]);
+            foreach (var team in teams)
+            {
+                Console.WriteLine(team);
+            }
+            
+            // Contains
+            Console.WriteLine(teams.ContainsKey(2));
+            Console.WriteLine(teams.ContainsValue("Arsenal"));
+
+            // Keys
+            foreach (var item in teams.Keys)
+            {
+                Console.WriteLine(item);
+            }
+            // Items
+            foreach (var item in teams.Values)
+            {
+                Console.WriteLine(item);
+            }
+
+            
+            
+            
             // Generic List
-
             List<int> numberList = new List<int>();
             numberList.Add(6);
             numberList.Add(3);
