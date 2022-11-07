@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Static, Struct and Enum\bin\Debug\Static, Struct and Enum.exe.config
+C:\Users\yusuf\source\repos\Static, Struct and Enum\bin\Debug\Static, Struct and Enum.exe
+C:\Users\yusuf\source\repos\Static, Struct and Enum\bin\Debug\Static, Struct and Enum.pdb
+C:\Users\yusuf\source\repos\Static, Struct and Enum\obj\Debug\Static, Struct and Enum.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Static, Struct and Enum\obj\Debug\Static, Struct and Enum.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Static, Struct and Enum\obj\Debug\Static, Struct and Enum.exe
+C:\Users\yusuf\source\repos\Static, Struct and Enum\obj\Debug\Static, Struct and Enum.pdb

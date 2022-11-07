@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\yusuf\source\repos\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\yusuf\source\repos\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\yusuf\source\repos\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\yusuf\source\repos\Classes\Classes\obj\Debug\Classes.pdb

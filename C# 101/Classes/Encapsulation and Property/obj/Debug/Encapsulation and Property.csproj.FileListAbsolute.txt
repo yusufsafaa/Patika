@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Encapsulation and Property\bin\Debug\Encapsulation and Property.exe.config
+C:\Users\yusuf\source\repos\Encapsulation and Property\bin\Debug\Encapsulation and Property.exe
+C:\Users\yusuf\source\repos\Encapsulation and Property\bin\Debug\Encapsulation and Property.pdb
+C:\Users\yusuf\source\repos\Encapsulation and Property\obj\Debug\Encapsulation and Property.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Encapsulation and Property\obj\Debug\Encapsulation and Property.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Encapsulation and Property\obj\Debug\Encapsulation and Property.exe
+C:\Users\yusuf\source\repos\Encapsulation and Property\obj\Debug\Encapsulation and Property.pdb
