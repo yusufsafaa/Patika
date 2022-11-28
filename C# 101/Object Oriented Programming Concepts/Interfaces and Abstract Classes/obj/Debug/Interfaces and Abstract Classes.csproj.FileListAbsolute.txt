@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\obj\Debug\Interfaces and Abstract Classes.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\obj\Debug\Interfaces and Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\bin\Debug\Interfaces and Abstract Classes.exe.config
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\bin\Debug\Interfaces and Abstract Classes.exe
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\bin\Debug\Interfaces and Abstract Classes.pdb
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\obj\Debug\Interfaces and Abstract Classes.exe
+C:\Users\yusuf\source\repos\Interfaces and Abstract Classes\obj\Debug\Interfaces and Abstract Classes.pdb

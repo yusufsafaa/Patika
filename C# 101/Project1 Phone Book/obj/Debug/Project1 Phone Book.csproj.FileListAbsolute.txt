@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Project1 Phone Book\bin\Debug\Project1 Phone Book.exe.config
+C:\Users\yusuf\source\repos\Project1 Phone Book\bin\Debug\Project1 Phone Book.exe
+C:\Users\yusuf\source\repos\Project1 Phone Book\bin\Debug\Project1 Phone Book.pdb
+C:\Users\yusuf\source\repos\Project1 Phone Book\obj\Debug\Project1 Phone Book.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Project1 Phone Book\obj\Debug\Project1 Phone Book.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Project1 Phone Book\obj\Debug\Project1 Phone Book.exe
+C:\Users\yusuf\source\repos\Project1 Phone Book\obj\Debug\Project1 Phone Book.pdb

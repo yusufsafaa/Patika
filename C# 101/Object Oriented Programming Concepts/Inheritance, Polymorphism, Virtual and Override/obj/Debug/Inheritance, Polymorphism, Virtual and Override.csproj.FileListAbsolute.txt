@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\bin\Debug\Inheritance, Polymorphism, Virtual and Override.exe.config
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\bin\Debug\Inheritance, Polymorphism, Virtual and Override.exe
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\bin\Debug\Inheritance, Polymorphism, Virtual and Override.pdb
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\obj\Debug\Inheritance, Polymorphism, Virtual and Override.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\obj\Debug\Inheritance, Polymorphism, Virtual and Override.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\obj\Debug\Inheritance, Polymorphism, Virtual and Override.exe
+C:\Users\yusuf\source\repos\Inheritance, Polymorphism, Virtual and Override\obj\Debug\Inheritance, Polymorphism, Virtual and Override.pdb
