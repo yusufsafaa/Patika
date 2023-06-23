@@ -1,4 +1,4 @@
-# Ödev 8 | CREATE TABLE, DROP TABLE, UPDATE, DELETE
+# Ödev 9 | INNER JOIN
 #### *1-City tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.*
 ```sql
 SELECT city,country FROM city
